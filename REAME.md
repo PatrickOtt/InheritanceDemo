@@ -1,0 +1,1 @@
+Kleines Beispiel für Vererbung.
